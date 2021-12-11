@@ -1,0 +1,2 @@
+# Gesture
+The purpose of this project is to identify hand postures and develop a man- machine connection. From the learning phase, the hand region in the image is recognized, and the pattern is classified as the most comparable gesture. The input, which is an image or a frame from a video, can be collected from a web camera or any other camera in this method. This color image is transformed to a binary image and preprocessed, after which it is categorized using knowledge gained from prior models by a Neural Network.
